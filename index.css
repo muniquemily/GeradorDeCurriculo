@@ -1,0 +1,25 @@
+*{
+	font-family: sans-serif;
+}
+
+
+#titulo, #subtitulo{
+	justify-content: center;
+	color: #2F4F4F;
+}
+
+.nomegrupo{
+	color: #2F4F4F;
+}
+
+.grupo{
+	line-height: 2.0;
+}
+
+.campo{
+	display: inline-block;
+}
+
+input, select, option, textarea, button{
+	border-radius: 5px;	
+}

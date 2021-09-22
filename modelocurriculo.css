@@ -1,0 +1,26 @@
+body {
+    margin: 30px;
+    font-family: 'Open Sans';
+}
+
+#nome {
+	color: #2F4F4F;
+	font-size: 22px;
+}
+
+.principal{
+	color: #363636;
+	font-size: 16px;
+	line-height: 0.5;
+}
+
+h2 {
+	color: #2F4F4F;
+}
+
+.dados{
+	color: #363636;
+	font-size: 15px;
+	line-height: 0.5;
+}
+
